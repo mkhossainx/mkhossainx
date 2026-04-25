@@ -12,19 +12,12 @@
 
 ## ⚡ About Me
 
-```yaml
-name: MK Hossain
-handle: "@mk_hossain"
-brand: BIZ FACTORY (@bizft)
-location: India 🇮🇳
-role: Solo Developer · Builder · Shipper
-focus:
-  - Full-Stack API Development
-  - Telegram Bot Engineering
-  - Cloudflare Workers & Edge Computing
-  - Rapid Product Shipping
-currently_building: API Nexus — Multi-upstream API Gateway on CF Workers
-```
+> Solo Developer from India 🇮🇳  
+> Building fast APIs & scalable systems 🚀  
+
+- 💻 Full-Stack Developer  
+- 🤖 Telegram Bot Engineer  
+- ☁️ Cloudflare Workers Specialist
 
 ---
 
