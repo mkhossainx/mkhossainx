@@ -32,13 +32,19 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-0f0c29?style=for-the-badge&logo=javascript&logoColor=a78bfa)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0f0c29?style=for-the-badge&logo=typescript&logoColor=a78bfa)
 ![Go](https://img.shields.io/badge/Go-0f0c29?style=for-the-badge&logo=go&logoColor=a78bfa)
-![Rust](https://img.shields.io/badge/Rust-0f0c29?style=for-the-badge&logo=rust&logoColor=f97316)
-![Java](https://img.shields.io/badge/Java-0f0c29?style=for-the-badge&logo=openjdk&logoColor=a78bfa)
 ![C](https://img.shields.io/badge/C-0f0c29?style=for-the-badge&logo=c&logoColor=a78bfa)
 ![C++](https://img.shields.io/badge/C++-0f0c29?style=for-the-badge&logo=cplusplus&logoColor=f97316)
-![Lua](https://img.shields.io/badge/Lua-0f0c29?style=for-the-badge&logo=lua&logoColor=a78bfa)
 ![Ruby](https://img.shields.io/badge/Ruby-0f0c29?style=for-the-badge&logo=ruby&logoColor=f97316)
 ![Bash](https://img.shields.io/badge/Bash-0f0c29?style=for-the-badge&logo=gnubash&logoColor=a78bfa)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-0f0c29?style=for-the-badge&logo=react&logoColor=a78bfa)
+![Next.js](https://img.shields.io/badge/Next.js-0f0c29?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
+![Vue.js](https://img.shields.io/badge/Vue.js-0f0c29?style=for-the-badge&logo=vuedotjs&logoColor=a78bfa)
+![Svelte](https://img.shields.io/badge/Svelte-0f0c29?style=for-the-badge&logo=svelte&logoColor=f97316)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-0f0c29?style=for-the-badge&logo=tailwindcss&logoColor=a78bfa)
+![Vite](https://img.shields.io/badge/Vite-0f0c29?style=for-the-badge&logo=vite&logoColor=f97316)
 
 **Frameworks & Runtimes**
 
@@ -47,8 +53,6 @@
 ![Flask](https://img.shields.io/badge/Flask-0f0c29?style=for-the-badge&logo=flask&logoColor=a78bfa)
 ![Node.js](https://img.shields.io/badge/Node.js-0f0c29?style=for-the-badge&logo=nodedotjs&logoColor=a78bfa)
 ![Gin](https://img.shields.io/badge/Gin-0f0c29?style=for-the-badge&logo=go&logoColor=a78bfa)
-![Actix](https://img.shields.io/badge/Actix-0f0c29?style=for-the-badge&logo=rust&logoColor=f97316)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-0f0c29?style=for-the-badge&logo=springboot&logoColor=a78bfa)
 
 **Databases & Storage**
 
@@ -118,16 +122,6 @@
   <sub>⭐⭐⭐⭐</sub>
 </td>
 <td align="center" width="120">
-  <img src="https://skillicons.dev/icons?i=rust" width="48"/><br/>
-  <sub><b>Rust</b></sub><br/>
-  <sub>⭐⭐⭐</sub>
-</td>
-<td align="center" width="120">
-  <img src="https://skillicons.dev/icons?i=java" width="48"/><br/>
-  <sub><b>Java</b></sub><br/>
-  <sub>⭐⭐⭐⭐</sub>
-</td>
-<td align="center" width="120">
   <img src="https://skillicons.dev/icons?i=c" width="48"/><br/>
   <sub><b>C</b></sub><br/>
   <sub>⭐⭐⭐</sub>
@@ -137,32 +131,42 @@
   <sub><b>C++</b></sub><br/>
   <sub>⭐⭐⭐</sub>
 </td>
-</tr>
-<tr>
 <td align="center" width="120">
   <img src="https://skillicons.dev/icons?i=ruby" width="48"/><br/>
   <sub><b>Ruby</b></sub><br/>
   <sub>⭐⭐⭐</sub>
 </td>
+</tr>
+</table>
+
+### 🟣 Frontend
+
+<table>
+<tr>
 <td align="center" width="120">
-  <img src="https://skillicons.dev/icons?i=lua" width="48"/><br/>
-  <sub><b>Lua</b></sub><br/>
+  <img src="https://skillicons.dev/icons?i=react" width="48"/><br/>
+  <sub><b>React</b></sub><br/>
+  <sub>⭐⭐⭐⭐</sub>
+</td>
+<td align="center" width="120">
+  <img src="https://skillicons.dev/icons?i=nextjs" width="48"/><br/>
+  <sub><b>Next.js</b></sub><br/>
+  <sub>⭐⭐⭐⭐</sub>
+</td>
+<td align="center" width="120">
+  <img src="https://skillicons.dev/icons?i=vue" width="48"/><br/>
+  <sub><b>Vue.js</b></sub><br/>
   <sub>⭐⭐⭐</sub>
 </td>
 <td align="center" width="120">
-  <img src="https://skillicons.dev/icons?i=kotlin" width="48"/><br/>
-  <sub><b>Kotlin</b></sub><br/>
+  <img src="https://skillicons.dev/icons?i=svelte" width="48"/><br/>
+  <sub><b>Svelte</b></sub><br/>
   <sub>⭐⭐⭐</sub>
 </td>
 <td align="center" width="120">
-  <img src="https://skillicons.dev/icons?i=swift" width="48"/><br/>
-  <sub><b>Swift</b></sub><br/>
-  <sub>⭐⭐</sub>
-</td>
-<td align="center" width="120">
-  <img src="https://skillicons.dev/icons?i=perl" width="48"/><br/>
-  <sub><b>Perl</b></sub><br/>
-  <sub>⭐⭐⭐</sub>
+  <img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br/>
+  <sub><b>Tailwind</b></sub><br/>
+  <sub>⭐⭐⭐⭐</sub>
 </td>
 </tr>
 </table>
@@ -178,14 +182,11 @@ JavaScript    ████████████████████  Expe
 TypeScript    ████████████████░░░░  Advanced  — Type-safe CF Workers & APIs
 Bash / Shell  ███████████████░░░░░  Advanced  — Termux Tools, Server Automation
 Go            ██████████████░░░░░░  Advanced  — High-perf APIs, Microservices, CLI
-Java          █████████████░░░░░░░  Advanced  — Backend Services, Spring Boot, OOP
-Rust          ████████████░░░░░░░░  Mid       — Systems Programming, WASM, CF Workers
+React / Next  █████████████░░░░░░░  Advanced  — SPA, SSR, Full-stack Apps
+Vue / Svelte  ████████████░░░░░░░░  Mid       — Reactive UIs, Component Design
+Tailwind CSS  █████████████░░░░░░░  Advanced  — Utility-first Styling, Dark UIs
 C / C++       ████████████░░░░░░░░  Mid       — Low-level, Reverse Engineering, Embeds
 Ruby          ███████████░░░░░░░░░  Mid       — Scripting, Sinatra, Automation
-Lua           ███████████░░░░░░░░░  Mid       — Scripting, Nginx/OpenResty, Game Mods
-Kotlin        ██████████░░░░░░░░░░  Mid       — Android, JVM Backend, Coroutines
-Perl          █████████░░░░░░░░░░░  Basic     — Regex, Text Processing, Sysadmin Scripts
-Swift         ████████░░░░░░░░░░░░  Basic     — iOS Basics, Server-side (Vapor)
 ```
 
 ---
@@ -194,10 +195,12 @@ Swift         ████████░░░░░░░░░░░░  Basi
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mkhossainx&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=f97316&text_color=e2e8f0&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkhossainx&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=e2e8f0&langs_count=8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mkhossainx&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=f97316&text_color=e2e8f0&count_private=true&cache_seconds=1800" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkhossainx&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=e2e8f0&langs_count=8&cache_seconds=1800" />
 
-<br/>
+</div>
+
+<div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=mkhossainx&theme=midnight-purple&hide_border=true&background=0f0c29&ring=a78bfa&fire=f97316&currStreakLabel=a78bfa)](https://git.io/streak-stats)
 
