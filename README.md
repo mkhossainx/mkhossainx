@@ -191,29 +191,6 @@ Ruby          ███████████░░░░░░░░░  Mid 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=mkhossainx&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=f97316&text_color=e2e8f0&count_private=true" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkhossainx&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=e2e8f0&langs_count=8" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=mkhossainx&theme=midnight-purple&hide_border=true&background=0f0c29&ring=a78bfa&fire=f97316&currStreakLabel=a78bfa)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## 🌐 Connect
 
 <div align="center">
