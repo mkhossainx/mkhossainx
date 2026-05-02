@@ -85,27 +85,27 @@
 <table>
 <tr>
 <td align="center" width="120">
-  <img src="https://skillicons.dev/icons?i=python" width="48"/><br/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48"/><br/>
   <sub><b>Python</b></sub><br/>
   <sub>⭐⭐⭐⭐⭐</sub>
 </td>
 <td align="center" width="120">
-  <img src="https://skillicons.dev/icons?i=php" width="48"/><br/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="48"/><br/>
   <sub><b>PHP</b></sub><br/>
   <sub>⭐⭐⭐⭐⭐</sub>
 </td>
 <td align="center" width="120">
-  <img src="https://skillicons.dev/icons?i=js" width="48"/><br/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48"/><br/>
   <sub><b>JavaScript</b></sub><br/>
   <sub>⭐⭐⭐⭐⭐</sub>
 </td>
 <td align="center" width="120">
-  <img src="https://skillicons.dev/icons?i=ts" width="48"/><br/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48"/><br/>
   <sub><b>TypeScript</b></sub><br/>
   <sub>⭐⭐⭐⭐</sub>
 </td>
 <td align="center" width="120">
-  <img src="https://skillicons.dev/icons?i=bash" width="48"/><br/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="48"/><br/>
   <sub><b>Bash</b></sub><br/>
   <sub>⭐⭐⭐⭐</sub>
 </td>
@@ -117,22 +117,22 @@
 <table>
 <tr>
 <td align="center" width="120">
-  <img src="https://skillicons.dev/icons?i=go" width="48"/><br/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="48"/><br/>
   <sub><b>Go</b></sub><br/>
   <sub>⭐⭐⭐⭐</sub>
 </td>
 <td align="center" width="120">
-  <img src="https://skillicons.dev/icons?i=c" width="48"/><br/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48"/><br/>
   <sub><b>C</b></sub><br/>
   <sub>⭐⭐⭐</sub>
 </td>
 <td align="center" width="120">
-  <img src="https://skillicons.dev/icons?i=cpp" width="48"/><br/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48"/><br/>
   <sub><b>C++</b></sub><br/>
   <sub>⭐⭐⭐</sub>
 </td>
 <td align="center" width="120">
-  <img src="https://skillicons.dev/icons?i=ruby" width="48"/><br/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="48"/><br/>
   <sub><b>Ruby</b></sub><br/>
   <sub>⭐⭐⭐</sub>
 </td>
@@ -144,27 +144,27 @@
 <table>
 <tr>
 <td align="center" width="120">
-  <img src="https://skillicons.dev/icons?i=react" width="48"/><br/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48"/><br/>
   <sub><b>React</b></sub><br/>
   <sub>⭐⭐⭐⭐</sub>
 </td>
 <td align="center" width="120">
-  <img src="https://skillicons.dev/icons?i=nextjs" width="48"/><br/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="48"/><br/>
   <sub><b>Next.js</b></sub><br/>
   <sub>⭐⭐⭐⭐</sub>
 </td>
 <td align="center" width="120">
-  <img src="https://skillicons.dev/icons?i=vue" width="48"/><br/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="48"/><br/>
   <sub><b>Vue.js</b></sub><br/>
   <sub>⭐⭐⭐</sub>
 </td>
 <td align="center" width="120">
-  <img src="https://skillicons.dev/icons?i=svelte" width="48"/><br/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" width="48"/><br/>
   <sub><b>Svelte</b></sub><br/>
   <sub>⭐⭐⭐</sub>
 </td>
 <td align="center" width="120">
-  <img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="48"/><br/>
   <sub><b>Tailwind</b></sub><br/>
   <sub>⭐⭐⭐⭐</sub>
 </td>
@@ -194,10 +194,16 @@ Ruby          ███████████░░░░░░░░░  Mid 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mkhossainx&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=f97316&text_color=e2e8f0&count_private=true&cache_seconds=1800" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkhossainx&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=e2e8f0&langs_count=8&cache_seconds=1800" />
-
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=mkhossainx&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=f97316&text_color=e2e8f0&count_private=true" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkhossainx&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=e2e8f0&langs_count=8" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
